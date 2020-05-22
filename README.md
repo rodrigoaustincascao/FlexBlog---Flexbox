@@ -1,1 +1,3 @@
-# FlexBlog---Flexbox
+# Projeto FlexBlog
+
+# Exercício para estudo de Flexbox
