@@ -192,6 +192,7 @@ img{
   max-width: 300px;
   margin: 20px auto;
   display: block;
+  font-size: 3em;
   text-align: center;
   font-weight: bold;
   padding: 10px 0 5px 0;
@@ -225,7 +226,7 @@ img{
   border-radius: 50%;
 }
 
-.produtos-item a{
+.preco-item a{
   max-width: 300px;
   display: block;
   margin: 20px auto;
